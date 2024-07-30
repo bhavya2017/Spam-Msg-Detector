@@ -5,4 +5,4 @@ The **SMS Spam Collection** is a dataset containing 5,574 SMS messages in Englis
 
 ## Objective
 
-The goal of this project is to build an AI model capable of classifying SMS messages as either spam or legitimate. To achieve this, we will employ natural language processing techniques such as TF-IDF or word embeddings. The classified data will then be used with machine learning classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify and categorize spam messages effectively.
+The goal of this project is to building an AI model capable of classifying SMS messages as either spam or legitimate. To achieve this, we will employ natural language processing techniques such as TF-IDF or word embeddings. The classified data will then be used with machine learning classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify and categorize spam messages effectively.
