@@ -1,9 +1,8 @@
-#Dataset:
 
-The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It
-contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
-Objective:
+## Dataset
 
-Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word
-embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam
-messages
+The **SMS Spam Collection** is a dataset containing 5,574 SMS messages in English, labeled as either "ham" (legitimate) or "spam". This collection has been gathered for research purposes in the area of SMS spam detection. The dataset serves as a valuable resource for developing and evaluating machine learning models for classifying SMS messages.
+
+## Objective
+
+The goal of this project is to build an AI model capable of classifying SMS messages as either spam or legitimate. To achieve this, we will employ natural language processing techniques such as TF-IDF or word embeddings. The classified data will then be used with machine learning classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify and categorize spam messages effectively.
